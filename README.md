@@ -54,8 +54,12 @@ Gemini API – AI content understanding & renaming
 
 Google Drive API – file storage & management
 
-
-
 Google Sheets API – structured logging
 
-🔹 Example Google Sheets Log
+🔹 Deliverables
+
+Fully functional Make.com scenario file (workflow.make.json)
+
+PNG screenshots of Gmail trigger and Google Sheets log
+
+Documentation (README.md) with setup & customization guide
